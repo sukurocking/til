@@ -39,6 +39,7 @@ This should provide a comprehensive guide to monitoring and troubleshooting in A
 
 ### Sample question
 Q. Cloud Data Fusion is the ideal solution when you need
+
 - [ ] to reuse spark pipelines
 - [ ] a datawarehousing solution
 - [x] to build visual pipelines
