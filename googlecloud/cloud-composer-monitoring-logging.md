@@ -34,3 +34,12 @@ Today we are learning about monitoring and troubleshooting Cloud Functions and A
 ### Summary
 
 This should provide a comprehensive guide to monitoring and troubleshooting in Apache Airflow, with a focus on identifying and diagnosing issues in DAG runs. It emphasizes the importance of careful observation, using logs, and paying attention to details like case sensitivity. Whether you're dealing with predefined schedules or triggered events, these practices will help you maintain smooth and successful operation of your Airflow workflows.
+
+
+
+### Sample question
+Q. Cloud Data Fusion is the ideal solution when you need
+-[] to reuse spark pipelines
+-[] a datawarehousing solution
+-[x] to build visual pipelines
+-[] low-latency and high throughput processing of streaming data
