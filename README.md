@@ -9,8 +9,8 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 - [Introduction to Streaming Data processing in Google Cloud](/googlecloud/intro-streaming-data-processing.md) - 2023-08-26
 
 ### [vim](/vim)
-- [Inverting case of string](/vim/inverting-string-case.md)
+- [Inverting case of string](/vim/inverting-string-case.md) - 2023-08-29
 
 
 ### [morningroutine](/morningroutine)
-- [Morning routine](/morningroutine/huberman-lab-morning-routine.md)
+- [Morning routine](/morningroutine/huberman-lab-morning-routine.md) - 2023-08-28
