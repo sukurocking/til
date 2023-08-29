@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til), spotted on [Hacker News](https://news.ycombinator.com/item?id=37118883)
 
-### googlecloud(/googlecloud)
+### [googlecloud](/googlecloud)
 - [Cloud Composer Monitoring and Logging](/googlecloud/cloud-composer-monitoring-logging.md) - 2023-08-26
 - [Building Batch Data Pipelines on Google Cloud](/googlecloud/building-batch-data-pipelines-gcp.md) - 2023-08-26
 - [Workflow Scheduling in GCP using Cloud composer](/googlecloud/cloud-composer-workflow-scheduling.md) - 2023-08-26
