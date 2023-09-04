@@ -11,6 +11,8 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ### [vim](/vim)
 - [Inverting case of string](/vim/inverting-string-case.md) - 2023-08-29
 
+### [ocr](/ocr)
+- [Extracting Text from Image file](/ocr/extracting-text-from-image-tesseract.md) - 2023-09-04
 
 ### [morningroutine](/morningroutine)
 - [Morning routine](/morningroutine/huberman-lab-morning-routine.md) - 2023-08-28
