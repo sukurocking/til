@@ -7,6 +7,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 - [Building Batch Data Pipelines on Google Cloud](/googlecloud/building-batch-data-pipelines-gcp.md) - 2023-08-26
 - [Workflow Scheduling in GCP using Cloud composer](/googlecloud/cloud-composer-workflow-scheduling.md) - 2023-08-26
 - [Introduction to Streaming Data processing in Google Cloud](/googlecloud/intro-streaming-data-processing.md) - 2023-08-26
+- [Firestore for Datastore](/googlecloud/firestore-for-datastore.md) - 2023-09-09
 
 ### [vim](/vim)
 - [Inverting case of string](/vim/inverting-string-case.md) - 2023-08-29
