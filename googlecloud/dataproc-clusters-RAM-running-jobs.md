@@ -31,8 +31,8 @@ gcloud dataproc clusters list | awk "NR>1 && !/^$/ {print $1}" | while read -r c
 done
 ```
 
-I put this is a check_clusters_mem.sh file, made it execute file in the command line.
-Finally executed it.
+I put this in a check_clusters_mem.sh file, added executable permissions to the file in the command line and Finally executed it!
+
 ```sh
 chmod +x check_clusters_mem.sh          # Adding executable permission to the shell script
 ./check_clusters_mem.sh                 # Executing the script
