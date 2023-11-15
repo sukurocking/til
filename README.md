@@ -12,6 +12,11 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ### [vim](/vim)
 - [Inverting case of string](/vim/inverting-string-case.md) - 2023-08-29
+- [Selecting between 2 line numbers](/vim/selecting_between_2_lines.md) - 2023-11-15
+- [Copying between 2 line numbers](/vim/copying_between_2_lines.md) - 2023-11-15
+
+### [javascript](/javascript)
+- [Simple redirect basis user input](/javascript/simple-redirect-basis-userinput) - 2023-11-15
 
 ### [ocr](/ocr)
 - [Extracting Text from Image file](/ocr/extracting-text-from-image-tesseract.md) - 2023-09-04
