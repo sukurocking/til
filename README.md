@@ -17,6 +17,8 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 - [Firestore for Datastore](/googlecloud/firestore-for-datastore.md) - 2023-09-09
 - [Checking Dataproc clusters RAM and running jobs](/googlecloud/dataproc-clusters-RAM-running-jobs.md) - 2023-09-18
 - [UDF in BigQuery](/googlecloud/udf-in-bigquery.md) - 2024-03-01
+- [Deleting AI model in GCP](/googlecloud/deleting-ai-model-gcp.md) - 2024-09-11
+- [Setting up Cloud NAT](/googlecloud/setting_cloud_NAT.md) - 2024-09-17
 
 
 ### [JavaScript](/javascript)
